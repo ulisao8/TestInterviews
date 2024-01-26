@@ -1,4 +1,4 @@
-Technical assesment for Atena Process.
+
 I decided to use swift UI to show a little my skills with the latest. The app has an MVVM architecture pattern with Combine,
 however I also added a data provider for the networking layer. 
 I integrated some basic unit tests to make them notice a little of these skills and there are some comments and markers in the code for better understanding.
